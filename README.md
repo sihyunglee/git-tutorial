@@ -7,3 +7,4 @@ staged 2
 
 feature-A
 - fix-B
+- feature-C(typo)
