@@ -2,3 +2,5 @@
 
 hello git
 
+staged 1
+staged 2
